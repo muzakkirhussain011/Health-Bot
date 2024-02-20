@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html data-bs-theme="dark" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>HealthBot</title>
+   
+    <link rel="icon" type="image/png" href="static/img/My%20project%20(1).png"/>
+      
+      
+    <link rel="stylesheet" href="static/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/animate.min.css">
+    <link rel="stylesheet" href="static/css/Button-Icon-Round.css">
+    <link rel="stylesheet" href="static/css/Navbar-Centered-Brand-icons.css">
+    <link rel="stylesheet" href="static/css/custom.css">
+    <link rel="stylesheet" href="static/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="static/css/accordion-faq-list.css">
+    <link rel="stylesheet" href="static/css/Button-Icon-Round.css">
+    <link rel="stylesheet" href="static/css/Faq-by-pomdre-faq.css">
+    <link rel="stylesheet" href="static/css/Faq-by-pomdre.css">
+    <link rel="stylesheet" href="static/css/FAQ-Frequentlly-Asked-Questions-faq.css">
+    <link rel="stylesheet" href="static/css/FAQ-Frequentlly-Asked-Questions.css">
+    <link rel="stylesheet" href="static/css/Google-Style-Text-Input.css">
+    <link rel="stylesheet" href="static/css/Navbar-Centered-Brand-Dark-icons.css">
+    <link rel="stylesheet" href="static/css/Scroll-To-Top-Button.css">
+    <link rel="stylesheet" href="static/css/textarea.css">
+</head>
+    <style>
+        /* Fix the position of the fixed-bottom section */
+        .fixed-bottom-section {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            padding: 10px;
+            background-color: #f8f9fa;
+            z-index: 1000;
+        }
+    
+        /* Adjust the layout of the fixed-bottom section */
+        .fixed-bottom-section .col-6,
+        .fixed-bottom-section .col-2,
+        .fixed-bottom-section .col-3 {
+            display: flex;
+            align-items: center;
+        }
+    
+        .fixed-bottom-section .col-6 {
+            justify-content: flex-start;
+        }
+    
+        .fixed-bottom-section .col-2 {
+            justify-content: center;
+        }
+    
+        .fixed-bottom-section .col-3 {
+            justify-content: flex-end;
+        }
+    
+        /* Adjust the position of the card container */
+        .card-container {
+            margin-bottom: 20px;
+        }
+    </style>
+    
+</head>
+
+<body>
+   
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="navbar navbar-expand-md bg-dark py-3" data-bs-theme="dark">
+                    <div class="container"><a class="navbar-brand d-flex align-items-center" href="index.html"><span class="bs-icon-sm bs-icon-rounded bs-icon-primary d-flex justify-content-center align-items-center me-2 bs-icon"><img src="static/img/My%20project%20(1).png"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-bezier">
+                                    <path fill-rule="evenodd" d="M0 10.5A1.5 1.5 0 0 1 1.5 9h1A1.5 1.5 0 0 1 4 10.5v1A1.5 1.5 0 0 1 2.5 13h-1A1.5 1.5 0 0 1 0 11.5v-1zm1.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1zm10.5.5A1.5 1.5 0 0 1 13.5 9h1a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5h-1a1.5 1.5 0 0 1-1.5-1.5v-1zm1.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1zM6 4.5A1.5 1.5 0 0 1 7.5 3h1A1.5 1.5 0 0 1 10 4.5v1A1.5 1.5 0 0 1 8.5 7h-1A1.5 1.5 0 0 1 6 5.5v-1zM7.5 4a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1z"></path>
+                                    <path d="M6 4.5H1.866a1 1 0 1 0 0 1h2.668A6.517 6.517 0 0 0 1.814 9H2.5c.123 0 .244.015.358.043a5.517 5.517 0 0 1 3.185-3.185A1.503 1.503 0 0 1 6 5.5v-1zm3.957 1.358A1.5 1.5 0 0 0 10 5.5v-1h4.134a1 1 0 1 1 0 1h-2.668a6.517 6.517 0 0 1 2.72 3.5H13.5c-.123 0-.243.015-.358.043a5.517 5.517 0 0 0-3.185-3.185z"></path>
+                                </svg></span><span>HealthBot</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-6"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                        <div class="collapse navbar-collapse flex-grow-0 order-md-first" id="navcol-6">
+                            <ul class="navbar-nav me-auto">
+                                <li class="nav-item"><a class="nav-link active" href="FAQ.html">FAQ</a></li>
+                            </ul>
+                            <div class="d-md-none my-2"></div>
+                        </div>
+                        <div class="d-none d-md-block"></div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-xxl-12" style="margin-top: 10px;padding-bottom: 160px;padding-top: 0px;">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="mb-0"><img src="static/img/My%20project%20(1).png" width="50" height="48">HealthBot</h5>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text"><h6>Hello, I’m a chatbot that can help you find the right medical specialist for your health condition. Just tell me your symptoms one by one and I’ll suggest the most suitable doctor for you. Please enter "Done" when you've provided all the symptoms.</h6><br><br></p>
+                    </div>
+                </div>
+                <div class="card flex-fill" id="userMessage">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="fixed-bottom-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-2 col-sm-1 col-md-1 col-lg-1">
+                        <a class="btn btn-warning btn-floating" role="button" id="repeatButton">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-repeat" style="font-size: 24px;margin-top: 9px;margin-right: 3px;">
+                                <path d="M11 5.466V4H5a4 4 0 0 0-3.584 5.777.5.5 0 1 1-.896.446A5 5 0 0 1 5 3h6V1.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384l-2.36 1.966a.25.25 0 0 1-.41-.192Zm3.81.086a.5.5 0 0 1 .67.225A5 5 0 0 1 11 13H5v1.466a.25.25 0 0 1-.41.192l-2.36-1.966a.25.25 0 0 1 0-.384l2.36-1.966a.25.25 0 0 1 .41.192V12h6a4 4 0 0 0 3.585-5.777.a.5.5 0 0 1 .225-.67Z"></path>
+                            </svg>
+                        </a>
+                    </div>
+                    <div class="col-6 col-sm-8 col-md-9 col-xl-10">
+                        <input type="text" id="userInput" data-bss-hover-animate="pulse" class="form-control" style="margin-top: 16px;" placeholder="Type your message here">
+                    </div>
+                    <div class="col-3 col-sm-1 col-md-1" style="padding-left: 12px;margin-left: -11px;">
+                        <a class="btn btn-warning btn-floating" role="button" id="sendButton">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-send-fill" style="font-size: 26px;margin-top: 9px;">
+                                <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083l6-15Zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.494-7.494 1.178-.471-.47 1.178Z"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <script src="static/bootstrap/js/bootstrap.min.js"></script>
+    <script src="static/js/bs-init.js"></script>
+    <script src="static/js/app.js"></script>
+</body>
+
+</html>

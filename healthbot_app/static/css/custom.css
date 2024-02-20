@@ -1,0 +1,48 @@
+/* Fix the position of the fixed-bottom section */
+.container .row:last-child {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #f8f9fa;
+    z-index: 1000;
+  }
+  
+  /* Adjust the layout of the fixed-bottom section */
+  .container .row:last-child .col-6,
+  .container .row:last-child .col-2,
+  .container .row:last-child .col-3 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .container .row:last-child .col-6 {
+    justify-content: flex-start;
+    
+  }
+  
+  .container .row:last-child .col-2 {
+    justify-content: center;
+  }
+  
+  .container .row:last-child .col-3 {
+    justify-content: flex-end;
+  }
+  
+  /* Adjust the height of the message container */
+  #messageContainer {
+    height: calc(100vh - 334px);
+    overflow-y: auto;
+  }
+
+  .container .row:last-child {
+  background-color: black;
+}
+
+.container .row:last-child input[type="text"] {
+  background-color: black;
+  color: white;
+}
+
+

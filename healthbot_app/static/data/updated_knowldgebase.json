@@ -1,0 +1,2294 @@
+{
+  "intents": [
+    {
+      "tag": "difficulty staying asleep",
+      "patterns": [
+        "difficulty staying asleep",
+        "trouble staying asleep",
+        "sleep maintenance difficulties",
+        "persistent awakenings",
+        "disturbed sleep",
+        "struggle with sleep",
+        "trouble maintaining sleep"
+      ],
+      "responses": [
+        "I see that you're having difficulty staying asleep. Can you share more details or any other related symptoms?",
+        "Difficulty staying asleep can be challenging. Are there any specific situations or times when you notice this issue?",
+        "It sounds like you're dealing with sleep maintenance difficulties. Can you provide more information about your sleep patterns?"
+      ]
+    },
+    {
+      "tag": "insomnia",
+      "patterns": [
+        "insomnia",
+        "sleeplessness",
+        "inability to sleep",
+        "chronic sleep deprivation",
+        "persistent insomnia",
+        "can't fall asleep",
+        "sleep issues",
+        "restless sleep"
+      ],
+      "responses": [
+        "It appears that you're experiencing insomnia. Are there specific triggers or associated symptoms you've noticed?",
+        "Insomnia can be challenging. Have you identified any patterns or factors contributing to your difficulty falling asleep?",
+        "I understand you're dealing with sleeplessness. Can you share more details about your sleep routine and any factors affecting it?"
+      ]
+    },
+    {
+      "tag": "sleep disturbances",
+      "patterns": [
+        "sleep disturbances",
+        "disrupted sleep",
+        "irregular sleep patterns",
+        "unsettled sleep",
+        "sleep interruptions",
+        "disturbed rest",
+        "uneven sleep",
+        "sleep irregularities"
+      ],
+      "responses": [
+        "I understand you're dealing with sleep disturbances. Can you provide more information or any other symptoms you're facing?",
+        "Sleep disturbances can be disruptive. Are there specific situations or times when you notice these interruptions?",
+        "It sounds like your sleep is irregular. Can you share more details about the nature of the disturbances you're experiencing?"
+      ]
+    },
+    {
+      "tag": "morning headaches",
+      "patterns": [
+        "morning headaches",
+        "headaches upon waking",
+        "morning head pain",
+        "frequent morning headaches",
+        "headaches in the morning",
+        "pain in the morning",
+        "morning migraines",
+        "head discomfort upon waking"
+      ],
+      "responses": [
+        "It sounds like you're experiencing morning headaches. Can you share more details or any other symptoms you may have?",
+        "Morning headaches can be challenging. Have you noticed any specific patterns or triggers associated with these headaches?",
+        "I understand you have morning migraines. Can you provide more information about their frequency and intensity?"
+      ]
+    },
+    {
+      "tag": "excessive daytime sleepiness",
+      "patterns": [
+        "excessive daytime sleepiness",
+        "daytime sleepiness",
+        "constant fatigue",
+        "overwhelming drowsiness",
+        "too tired during the day",
+        "daytime exhaustion",
+        "fatigue all day",
+        "drowsy throughout the day"
+      ],
+      "responses": [
+        "I see that you're dealing with excessive daytime sleepiness. Are there specific factors or situations that contribute to this?",
+        "Excessive daytime sleepiness can impact daily life. Have you noticed any patterns or triggers associated with this fatigue?",
+        "It sounds like you're fatigued throughout the day. Can you share more details about your sleep routine and any factors affecting it?"
+      ]
+    },
+    {
+      "tag": "sleepwalking",
+      "patterns": [
+        "sleepwalking",
+        "walking in sleep",
+        "night wandering",
+        "sleep-related ambulation",
+        "somnambulism",
+        "nocturnal ambulation",
+        "wandering during sleep",
+        "walking while asleep"
+      ],
+      "responses": [
+        "It appears you might be experiencing sleepwalking. Can you provide more details or any specific concerns you have?",
+        "Sleepwalking can be concerning. Have you observed any specific behaviors or situations triggering these episodes?",
+        "I understand you're dealing with sleep-related ambulation. Can you share more information about the frequency and nature of these episodes?"
+      ]
+    },
+    {
+      "tag": "enlarged liver",
+      "patterns": [
+        "enlarged liver",
+        "swollen liver",
+        "hepatomegaly",
+        "liver enlargement",
+        "liver swelling",
+        "hepatic enlargement",
+        "hepatic swelling"
+      ],
+      "responses": [
+        "It seems like you're concerned about an enlarged liver. Can you provide more details or any other symptoms you're experiencing?",
+        "Enlarged liver can have various causes. Are there any specific activities or situations that seem to be associated with this symptom?",
+        "I understand that you're dealing with an enlarged liver. Can you share more information about your overall health and any other related symptoms?"
+      ]
+    },
+   
+    {
+      "tag": "abdominal gas",
+      "patterns": [
+        "abdominal gas",
+        "belly gas",
+        "stomach gas",
+        "gas in the abdomen",
+        "intestinal gas",
+        "abdominal flatulence",
+        "belching"
+      ],
+      "responses": [
+        "It appears you're dealing with abdominal gas. Can you share more details or any other digestive symptoms you're facing?",
+        "Abdominal gas can be uncomfortable. Have you noticed any specific foods or situations that trigger this symptom?",
+        "I understand you're experiencing abdominal gas. Can you provide more information about the frequency and intensity of this discomfort?"
+      ]
+    },
+    
+    {
+      "tag": "hemoptysis",
+      "patterns": [
+        "hemoptysis",
+        "coughing up blood",
+        "blood in cough",
+        "bloody sputum",
+        "expectorating blood",
+        "spitting blood",
+        "blood-tinged phlegm"
+      ],
+      "responses": [
+        "It appears you're dealing with hemoptysis. Coughing up blood can be concerning. Can you share more details or any other related symptoms?",
+        "Coughing up blood is a serious symptom. Have you noticed any specific situations or patterns associated with hemoptysis?",
+        "I understand you have hemoptysis. Can you provide more information about the frequency and quantity of blood in your cough?"
+      ]
+    },
+    {
+      "tag": "flank pain",
+      "patterns": [
+        "flank pain",
+        "side pain",
+        "pain in the flank area",
+        "flank discomfort",
+        "side ache",
+        "flank region pain",
+        "side pain sensation"
+      ],
+      "responses": [
+        "It seems like you're experiencing flank pain. Can you share more details or any other symptoms you may be dealing with?",
+        "Flank pain can have various causes. Are there any specific activities or situations that seem to trigger the pain?",
+        "I understand that you have flank pain. Can you provide more information about the nature and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "vomiting",
+      "patterns": [
+        "vomiting",
+        "throwing up",
+        "emesis",
+        "vomiting episodes",
+        "vomiting",
+        "expelling stomach contents",
+        "retching"
+      ],
+      "responses": [
+        "It appears you're dealing with vomiting. Can you share more details or any other symptoms you may be experiencing?",
+        "Vomiting can be distressing. Have you noticed any specific triggers or patterns associated with these episodes?",
+        "I understand you're experiencing vomiting. Can you provide more information about the frequency and any associated symptoms?"
+      ]
+    },
+    {
+      "tag": "nausea",
+      "patterns": [
+        "nausea",
+        "feeling nauseous",
+        "queasiness",
+        "upset stomach",
+        "stomach discomfort",
+        "sick to the stomach",
+        "feeling unwell"
+      ],
+      "responses": [
+        "It seems like you're dealing with nausea. Can you share more details or any other symptoms you may be facing?",
+        "Nausea can be bothersome. Have you identified any specific triggers or situations associated with this symptom?",
+        "I understand that you're experiencing nausea. Can you provide more information about the nature and duration of this feeling?"
+      ]
+    },
+    {
+      "tag": "bleeding gums",
+      "patterns": [
+        "bleeding gums",
+        "gum bleeding",
+        "bleeding from the gums",
+        "blood during brushing",
+        "bleeding while flossing",
+        "gum hemorrhage",
+        "bleeding oral tissues"
+      ],
+      "responses": [
+        "It appears you have bleeding gums. Can you share more details or any other oral health concerns you may have?",
+        "Bleeding gums can be a sign of various dental issues. Have you noticed any specific triggers or patterns associated with this symptom?",
+        "I understand you're dealing with bleeding gums. Can you provide more information about your oral hygiene routine and any associated discomfort?"
+      ]
+    },
+    {
+      "tag": "toothache",
+      "patterns": [
+        "toothache",
+        "tooth pain",
+        "aching tooth",
+        "pain in the tooth",
+        "dental pain",
+        "tooth discomfort",
+        "sore tooth"
+      ],
+      "responses": [
+        "It seems like you have a toothache. Can you share more details or any other dental symptoms you may be experiencing?",
+        "Toothaches can be uncomfortable. Have you identified any specific triggers or situations associated with this dental pain?",
+        "I understand that you're experiencing a toothache. Can you provide more information about the location and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "tooth sensitivity",
+      "patterns": [
+        "tooth sensitivity",
+        "sensitive teeth",
+        "tooth pain with hot or cold",
+        "sensitivity in the teeth",
+        "tooth discomfort with temperature",
+        "sensitive dental enamel",
+        "painful response to stimuli"
+      ],
+      "responses": [
+        "It appears you're dealing with tooth sensitivity. Can you share more details or any other dental concerns you may have?",
+        "Tooth sensitivity can be bothersome. Have you noticed any specific triggers or patterns associated with this symptom?",
+        "I understand that you have tooth sensitivity. Can you provide more information about the nature and intensity of the sensitivity?"
+      ]
+    },
+    {
+      "tag": "diarrhea",
+      "patterns": [
+        "diarrhea",
+        "loose stools",
+        "frequent bowel movements",
+        "watery stool",
+        "diarrheal episodes",
+        "bowel urgency",
+        "runny stools"
+      ],
+      "responses": [
+        "It seems like you're dealing with diarrhea. Can you share more details or any other digestive symptoms you may be facing?",
+        "Diarrhea can be uncomfortable. Have you noticed any specific triggers or patterns associated with these episodes?",
+        "I understand you're experiencing diarrhea. Can you provide more information about the frequency and any associated symptoms?"
+      ]
+    },
+    {
+      "tag": "abdominal discomfort",
+      "patterns": [
+        "abdominal discomfort",
+        "stomach discomfort",
+        "belly discomfort",
+        "discomfort in the abdomen",
+        "abdominal unease",
+        "stomach uneasiness",
+        "uncomfortable belly"
+      ],
+      "responses": [
+        "It appears you're experiencing abdominal discomfort. Can you share more details or any other digestive symptoms you may have?",
+        "Abdominal discomfort can have various causes. Are there any specific activities or situations that seem to be associated with this symptom?",
+        "I understand that you have abdominal discomfort. Can you provide more information about the nature and intensity of the discomfort?"
+      ]
+    },
+    {
+      "tag": "abdominal bloating",
+      "patterns": [
+        "abdominal bloating",
+        "belly bloating",
+        "stomach bloating",
+        "bloated abdomen",
+        "abdominal distension",
+        "stomach distension",
+        "swollen belly"
+      ],
+      "responses": [
+        "It seems like you're dealing with abdominal bloating. Can you share more details or any other digestive symptoms you may be facing?",
+        "Abdominal bloating can be uncomfortable. Have you noticed any specific triggers or patterns associated with this symptom?",
+        "I understand you're experiencing abdominal bloating. Can you provide more information about the factors that may contribute to this bloating?"
+      ]
+    },
+    {
+      "tag": "heartburn",
+      "patterns": [
+        "heartburn",
+        "acid reflux",
+        "burning sensation in the chest",
+        "chest discomfort after eating",
+        "gastric reflux",
+        "stomach acid regurgitation"
+      ],
+      "responses": [
+        "It appears you're experiencing heartburn. Can you share more details or any other digestive symptoms you may have?",
+        "Heartburn can be bothersome. Have you noticed any specific triggers or patterns associated with this symptom?",
+        "I understand you have heartburn. Can you provide more information about the frequency and any associated factors?"
+      ]
+    },
+    {
+      "tag": "constipation",
+      "patterns": [
+        "constipation",
+        "hard stools",
+        "infrequent bowel movements",
+        "difficulty passing stool",
+        "bowel movement strain",
+        "stool blockage",
+        "trouble with bowel movements"
+      ],
+      "responses": [
+        "It seems like you're dealing with constipation. Can you share more details or any other digestive symptoms you may be facing?",
+        "Constipation can be uncomfortable. Have you noticed any specific triggers or patterns associated with this symptom?",
+        "I understand you're experiencing constipation. Can you provide more information about the frequency and any associated factors?"
+      ]
+    },
+    {
+      "tag": "pelvic pain",
+      "patterns": [
+        "pelvic pain",
+        "pain in the pelvic region",
+        "pelvic discomfort",
+        "pain in the pelvic area",
+        "pelvic ache",
+        "lower belly pain"
+      ],
+      "responses": [
+        "It appears you're experiencing pelvic pain. Can you share more details or any other symptoms you may be dealing with?",
+        "Pelvic pain can have various causes. Are there any specific activities or situations that seem to be associated with this symptom?",
+        "I understand that you have pelvic pain. Can you provide more information about the nature and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "hematochezia",
+      "patterns": [
+        "hematochezia",
+        "bloody stools",
+        "blood in stool",
+        "bright red blood in stool",
+        "rectal bleeding",
+        "passing blood in stool",
+        "bloody bowel movements"
+      ],
+      "responses": [
+        "It appears you're dealing with hematochezia. Passing blood in stool can be concerning. Can you share more details or any other related symptoms?",
+        "Rectal bleeding is a significant symptom. Have you noticed any specific triggers or patterns associated with hematochezia?",
+        "I understand you have hematochezia. Can you provide more information about the frequency and quantity of blood in your bowel movements?"
+      ]
+    },
+    {
+      "tag": "sneezing",
+      "patterns": [
+        "sneezing",
+        "sneeze",
+        "continuous sneezing",
+        "frequent sneezing",
+        "sneezing fits",
+        "uncontrollable sneezing",
+        "repeated sneezing"
+      ],
+      "responses": [
+        "It appears you're experiencing sneezing. Can you share more details or any other respiratory symptoms you may be facing?",
+        "Sneezing can be triggered by various factors. Have you noticed any specific patterns or situations associated with your sneezing?",
+        "I understand that you're sneezing. Can you provide more information about the frequency and any associated factors?"
+      ]
+    },
+    {
+      "tag": "cough",
+      "patterns": [
+        "cough",
+        "coughing",
+        "persistent cough",
+        "frequent cough",
+        "repeated coughing",
+        "ongoing cough",
+        "continual cough"
+      ],
+      "responses": [
+        "It seems like you have a cough. Can you share more details or any other respiratory symptoms you may be experiencing?",
+        "Dealing with a cough can be bothersome. Have you identified any specific triggers or factors associated with this cough?",
+        "I understand you're experiencing coughing. Can you provide more information about the nature and frequency of the coughing episodes?"
+      ]
+    },
+    {
+      "tag": "chronic cough",
+      "patterns": [
+        "chronic cough",
+        "persistent cough",
+        "long-lasting cough",
+        "prolonged coughing",
+        "cough that won't go away",
+        "incessant cough",
+        "continual cough"
+      ],
+      "responses": [
+        "It sounds like you have a chronic cough. Can you share more details or any other respiratory symptoms you may be experiencing?",
+        "Dealing with a persistent cough can be challenging. Have you identified any specific triggers or factors associated with this cough?",
+        "I understand you're experiencing a chronic cough. Can you provide more information about the nature and frequency of the coughing episodes?"
+      ]
+    },
+    {
+      "tag": "shortness of breath",
+      "patterns": [
+        "shortness of breath",
+        "breathlessness",
+        "difficulty breathing",
+        "labored breathing",
+        "breathing difficulty",
+        "trouble breathing",
+        "air hunger"
+      ],
+      "responses": [
+        "It appears you're experiencing shortness of breath. Can you share more details or any other respiratory symptoms you may be facing?",
+        "Shortness of breath can have various causes. Have you noticed any specific triggers or patterns associated with this symptom?",
+        "I understand that you have difficulty breathing. Can you provide more information about the nature and frequency of the episodes of breathlessness?"
+      ]
+    },
+    {
+      "tag": "wheezing",
+      "patterns": [
+        "wheezing",
+        "wheezes",
+        "whistling breath",
+        "high-pitched breath sounds",
+        "noisy breathing",
+        "breathing with a wheeze",
+        "whistling in the chest"
+      ],
+      "responses": [
+        "It seems like you're experiencing wheezing. Can you share more details or any other respiratory symptoms you may be facing?",
+        "Wheezing can be associated with various respiratory conditions. Have you noticed any specific triggers or patterns associated with this symptom?",
+        "I understand that you have wheezing. Can you provide more information about the frequency and intensity of the wheezing episodes?"
+      ]
+    },
+    {
+      "tag": "skin rash",
+      "patterns": [
+        "skin rash",
+        "rash on skin",
+        "skin eruption",
+        "skin redness",
+        "dermatitis",
+        "red skin rash",
+        "skin irritation"
+      ],
+      "responses": [
+        "It appears you have a skin rash. Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with a skin rash can be bothersome. Have you identified any specific triggers or factors associated with this rash?",
+        "I understand that you're experiencing a skin rash. Can you provide more information about the nature and location of the rash?"
+      ]
+    },
+    {
+      "tag": "ingrown toenails",
+      "patterns": [
+        "ingrown toenails",
+        "ingrown nails",
+        "nails growing into skin",
+        "painful toenails",
+        "nail fold pain",
+        "toenail ingrowth",
+        "toenail discomfort"
+      ],
+      "responses": [
+        "It seems like you're dealing with ingrown toenails. Can you share more details or any other symptoms you may be facing?",
+        "Ingrown toenails can be uncomfortable. Have you noticed any specific triggers or factors associated with this condition?",
+        "I understand you have ingrown toenails. Can you provide more information about the severity and any associated pain or inflammation?"
+      ]
+    },
+    {
+      "tag": "xerosis",
+      "patterns": [
+        "xerosis",
+        "dry skin",
+        "skin dryness",
+        "dry and flaky skin",
+        "dehydrated skin",
+        "excessively dry skin",
+        "flaking skin"
+      ],
+      "responses": [
+        "It appears you have xerosis (dry skin). Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with dry skin can be bothersome. Have you identified any specific triggers or factors associated with this condition?",
+        "I understand that you're experiencing xerosis. Can you provide more information about the areas affected and any associated discomfort?"
+      ]
+    },
+    {
+      "tag": "skin conditions",
+      "patterns": [
+        "skin conditions",
+        "dermatological issues",
+        "skin problems",
+        "conditions affecting the skin",
+        "skin disorders",
+        "dermal conditions",
+        "problems with the skin"
+      ],
+      "responses": [
+        "It seems like you're concerned about skin conditions. Can you share more details or any specific symptoms you may be facing?",
+        "Skin conditions can vary widely. Have you noticed any specific patterns or factors associated with the issues you're experiencing?",
+        "I understand you're dealing with skin conditions. Can you provide more information about the nature and location of the concerns?"
+      ]
+    },
+    {
+      "tag": "pruritus",
+      "patterns": [
+        "pruritus",
+        "itchy skin",
+        "skin itching",
+        "itching sensation",
+        "skin itchiness",
+        "persistent itching",
+        "itchy skin condition"
+      ],
+      "responses": [
+        "It appears you have pruritus (itchy skin). Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with itchy skin can be bothersome. Have you identified any specific triggers or factors associated with this sensation?",
+        "I understand that you're experiencing pruritus. Can you provide more information about the areas affected and any associated discomfort?"
+      ]
+    },
+    {
+      "tag": "blisters",
+      "patterns": [
+        "blisters",
+        "skin blisters",
+        "fluid-filled sacs on skin",
+        "blistering",
+        "skin vesicles",
+        "skin bullae",
+        "blister formation"
+      ],
+      "responses": [
+        "It seems like you're dealing with blisters. Can you share more details or any other symptoms you may be facing?",
+        "Blisters can have various causes. Have you noticed any specific triggers or factors associated with the formation of these blisters?",
+        "I understand you have blisters. Can you provide more information about the size, location, and any associated pain or discomfort?"
+      ]
+    },
+    {
+      "tag": "moles",
+      "patterns": [
+        "moles",
+        "skin moles",
+        "nevi",
+        "pigmented skin spots",
+        "mole growth",
+        "mole changes",
+        "mole appearance"
+      ],
+      "responses": [
+        "It appears you're concerned about moles. Can you share more details or any other skin changes you may have noticed?",
+        "Moles are common, but changes should be monitored. Have you observed any recent changes in the size, shape, or color of your moles?",
+        "I understand that you have moles. Can you provide more information about their location and any specific concerns you may have?"
+      ]
+    },
+    {
+      "tag": "edema",
+      "patterns": [
+        "edema",
+        "swelling",
+        "fluid retention",
+        "swollen skin",
+        "puffy skin",
+        "skin swelling",
+        "retained fluid in skin"
+      ],
+      "responses": [
+        "It appears you have edema (swelling). Can you share more details or any other symptoms you may be experiencing?",
+        "Edema can have various causes. Have you noticed any specific triggers or factors associated with the swelling?",
+        "I understand that you're dealing with edema. Can you provide more information about the areas affected and any associated symptoms?"
+      ]
+    },
+    
+    {
+        "tag": "hair loss",
+        "patterns": [
+          "hair loss",
+          "losing hair",
+          "thinning hair",
+          "hair shedding",
+          "balding",
+          "hair fall",
+          "loss of hair"
+        ],
+        "responses": [
+          "It seems like you're experiencing hair loss. Can you share more details or any other symptoms you may be facing?",
+          "Hair loss can have various causes. Have you noticed any specific triggers or patterns associated with the thinning or shedding of your hair?",
+          "I understand that you have hair loss. Can you provide more information about the areas affected, the duration, and any associated concerns or symptoms?"
+        ]
+      },
+      {
+        "tag": "alopecia",
+        "patterns": [
+          "alopecia",
+          "baldness",
+          "absence of hair",
+          "complete hair loss",
+          "hairless condition",
+          "total alopecia"
+        ],
+        "responses": [
+          "It appears you're dealing with alopecia. Can you share more details or any other symptoms you may be facing?",
+          "Alopecia is a specific condition that involves hair loss. Have you noticed any specific triggers or patterns associated with your hair loss?",
+          "I understand that you have alopecia. Can you provide more information about the type of alopecia, areas affected, and any associated concerns or symptoms?"
+        ]
+      },
+    {
+      "tag": "skin discoloration",
+      "patterns": [
+        "skin discoloration",
+        "discolored skin",
+        "changes in skin color",
+        "skin color alterations",
+        "pigmentation changes",
+        "skin hue modification",
+        "altered skin tone"
+      ],
+      "responses": [
+        "It seems like you're experiencing skin discoloration. Can you share more details or any other symptoms you may be facing?",
+        "Changes in skin color can be significant. Have you identified any specific triggers or factors associated with this discoloration?",
+        "I understand that you have skin discoloration. Can you provide more information about the areas affected and any associated concerns?"
+      ]
+    },
+    {
+      "tag": "acne",
+      "patterns": [
+        "acne",
+        "pimples",
+        "breakouts",
+        "skin blemishes",
+        "pustules",
+        "acne lesions",
+        "skin eruptions"
+      ],
+      "responses": [
+        "It appears you're dealing with acne. Can you share more details or any other symptoms you may be facing?",
+        "Acne is a common skin concern. Have you noticed any specific triggers or factors associated with your acne flare-ups?",
+        "I understand that you have acne. Can you provide more information about the areas affected and any associated concerns?"
+      ]
+    },
+    {
+      "tag": "headache",
+      "patterns": [
+        "headache",
+        "head pain",
+        "cranial pain",
+        "migraine",
+        "throbbing head",
+        "head discomfort",
+        "head pressure"
+      ],
+      "responses": [
+        "It appears you have a headache. Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with a headache can be uncomfortable. Have you identified any specific triggers or factors associated with your headaches?",
+        "I understand that you're experiencing a headache. Can you provide more information about the location, intensity, and any associated symptoms?"
+      ]
+    },
+    {
+      "tag": "tremors",
+      "patterns": [
+        "tremors",
+        "shaking",
+        "involuntary movements",
+        "trembling",
+        "shivering",
+        "quivering",
+        "shaky movements"
+      ],
+      "responses": [
+        "It seems like you're experiencing tremors. Can you share more details or any other symptoms you may be facing?",
+        "Tremors can have various causes. Have you noticed any specific triggers or patterns associated with these involuntary movements?",
+        "I understand you have tremors. Can you provide more information about the areas affected and any associated concerns or sensations?"
+      ]
+    },
+    {
+      "tag": "difficulty concentrating",
+      "patterns": [
+        "difficulty concentrating",
+        "trouble focusing",
+        "lack of concentration",
+        "attention difficulties",
+        "concentration issues",
+        "focus problems",
+        "cognitive distraction"
+      ],
+      "responses": [
+        "It appears you're having difficulty concentrating. Can you share more details or any other cognitive symptoms you may be experiencing?",
+        "Difficulty concentrating can be challenging. Have you noticed any specific triggers or patterns associated with this symptom?",
+        "I understand that you're facing concentration issues. Can you provide more information about the situations or activities where you experience this difficulty?"
+      ]
+    },
+    {
+      "tag": "tingling",
+      "patterns": [
+        "tingling",
+        "pins and needles",
+        "tingling sensation",
+        "prickling feeling",
+        "tingly sensation",
+        "skin tingling",
+        "numb and tingling"
+      ],
+      "responses": [
+        "It seems like you're experiencing tingling. Can you share more details or any other sensory symptoms you may be facing?",
+        "Tingling sensations can have various causes. Have you noticed any specific triggers or patterns associated with this sensation?",
+        "I understand you have tingling. Can you provide more information about the areas affected and any associated factors or sensations?"
+      ]
+    },
+    {
+      "tag": "numbness or tingling in hands or feet",
+      "patterns": [
+        "numbness or tingling in hands or feet",
+        "tingling in hands and feet",
+        "numb hands and feet",
+        "tingly extremities",
+        "numbness in limbs",
+        "hands and feet tingling",
+        "loss of sensation in extremities"
+      ],
+      "responses": [
+        "It appears you're experiencing numbness or tingling in your hands or feet. Can you share more details or any other sensory symptoms you may be facing?",
+        "Numbness or tingling in extremities can have various causes. Have you noticed any specific triggers or patterns associated with this sensation?",
+        "I understand that you have numbness or tingling in your hands or feet. Can you provide more information about the areas affected and any associated factors or sensations?"
+      ]
+    },
+    {
+      "tag": "visual disturbances",
+      "patterns": [
+        "visual disturbances",
+        "vision problems",
+        "distorted vision",
+        "visual issues",
+        "sight disturbances",
+        "blurred vision",
+        "visual abnormalities"
+      ],
+      "responses": [
+        "It seems like you're experiencing visual disturbances. Can you share more details or any other visual symptoms you may be facing?",
+        "Visual disturbances can have various causes. Have you noticed any specific triggers or patterns associated with these vision issues?",
+        "I understand you have visual disturbances. Can you provide more information about the nature and frequency of these disturbances?"
+      ]
+    },
+    {
+      "tag": "dysphagia",
+      "patterns": [
+        "dysphagia",
+        "difficulty swallowing",
+        "swallowing problems",
+        "trouble swallowing",
+        "swallowing difficulties",
+        "difficulty in swallowing food",
+        "impaired swallowing"
+      ],
+      "responses": [
+        "It appears you have dysphagia (difficulty swallowing). Can you share more details or any other symptoms you may be experiencing?",
+        "Dysphagia can have various causes. Have you noticed any specific triggers or patterns associated with this difficulty in swallowing?",
+        "I understand that you're experiencing dysphagia. Can you provide more information about the nature and frequency of the swallowing difficulties?"
+      ]
+    },
+    {
+      "tag": "facial pain",
+      "patterns": [
+        "facial pain",
+        "pain in the face",
+        "facial discomfort",
+        "aching face",
+        "pain in facial area",
+        "facial pain sensation",
+        "discomfort in the face"
+      ],
+      "responses": [
+        "It seems like you're experiencing facial pain. Can you share more details or any other symptoms you may be facing?",
+        "Facial pain can have various causes. Have you noticed any specific triggers or patterns associated with this pain in the face?",
+        "I understand you have facial pain. Can you provide more information about the location, nature, and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "balance problems",
+      "patterns": [
+        "balance problems",
+        "balance issues",
+        "difficulty balancing",
+        "unsteady balance",
+        "balance challenges",
+        "imbalance",
+        "problems with balance"
+      ],
+      "responses": [
+        "It appears you're experiencing balance problems. Can you share more details or any other symptoms you may be facing?",
+        "Balance problems can have various causes. Have you noticed any specific triggers or patterns associated with these issues?",
+        "I understand that you're dealing with balance problems. Can you provide more information about the situations or activities where you experience difficulty balancing?"
+      ]
+    },
+    {
+      "tag": "intellectual disabilities",
+      "patterns": [
+        "intellectual disabilities",
+        "cognitive disabilities",
+        "intellectual challenges",
+        "cognitive impairments",
+        "mental disabilities",
+        "learning disabilities",
+        "intellectual difficulties"
+      ],
+      "responses": [
+        "It seems like you're concerned about intellectual disabilities. Can you share more details or any other cognitive symptoms you may be facing?",
+        "Intellectual disabilities can vary widely. Have you noticed any specific patterns or factors associated with the challenges you're experiencing?",
+        "I understand you're dealing with intellectual disabilities. Can you provide more information about the specific areas of difficulty or any related concerns?"
+      ]
+    },
+    {
+      "tag": "seizures",
+      "patterns": [
+        "seizures",
+        "epileptic seizures",
+        "convulsions",
+        "seizure episodes",
+        "fits",
+        "uncontrolled movements",
+        "epileptic events"
+      ],
+      "responses": [
+        "It appears you're experiencing seizures. Can you share more details or any other symptoms you may be facing?",
+        "Seizures can have various causes. Have you noticed any specific triggers or patterns associated with these episodes?",
+        "I understand that you're having seizures. Can you provide more information about the nature and frequency of these seizure events?"
+      ]
+    },
+    {
+      "tag": "ear pain",
+      "patterns": [
+        "ear pain",
+        "pain in the ear",
+        "ear discomfort",
+        "aching ear",
+        "ear pain sensation",
+        "pain in the ear canal",
+        "discomfort in the ear"
+      ],
+      "responses": [
+        "It seems like you're experiencing ear pain. Can you share more details or any other symptoms you may be facing?",
+        "Ear pain can have various causes. Have you noticed any specific triggers or patterns associated with this pain in the ear?",
+        "I understand you have ear pain. Can you provide more information about the location, nature, and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "peripheral vision loss",
+      "patterns": [
+        "peripheral vision loss",
+        "loss of peripheral vision",
+        "reduced peripheral vision",
+        "blurred peripheral vision",
+        "diminished side vision",
+        "peripheral vision impairment",
+        "loss of side vision"
+      ],
+      "responses": [
+        "It appears you're experiencing peripheral vision loss. Can you share more details or any other visual symptoms you may be facing?",
+        "Peripheral vision loss can have various causes. Have you noticed any specific triggers or patterns associated with this loss of side vision?",
+        "I understand you have peripheral vision loss. Can you provide more information about the nature and intensity of this visual impairment?"
+      ]
+    },
+    {
+      "tag": "cognitive impairment",
+      "patterns": [
+        "cognitive impairment",
+        "cognitive decline",
+        "mental decline",
+        "thinking difficulties",
+        "cognitive dysfunction",
+        "impaired cognition",
+        "decline in mental abilities"
+      ],
+      "responses": [
+        "It seems like you're dealing with cognitive impairment. Can you share more details or any other cognitive symptoms you may be facing?",
+        "Cognitive impairment can have various causes. Have you noticed any specific triggers or patterns associated with the decline in mental abilities?",
+        "I understand that you're experiencing cognitive impairment. Can you provide more information about the specific areas of difficulty or any related concerns?"
+      ]
+    },
+    {
+      "tag": "dizziness",
+      "patterns": [
+        "dizziness",
+        "lightheadedness",
+        "vertigo",
+        "feeling faint",
+        "spinning sensation",
+        "unsteadiness",
+        "dizzy spells"
+      ],
+      "responses": [
+        "It appears you're experiencing dizziness. Can you share more details or any other symptoms you may be facing?",
+        "Dizziness can have various causes. Have you noticed any specific triggers or patterns associated with this sensation?",
+        "I understand that you're feeling dizzy. Can you provide more information about the nature and frequency of these dizzy spells?"
+      ]
+    },
+    {
+      "tag": "muscle weakness",
+      "patterns": [
+        "muscle weakness",
+        "weak muscles",
+        "loss of muscle strength",
+        "muscular weakness",
+        "fatigued muscles",
+        "weakness in muscles",
+        "muscle strength loss"
+      ],
+      "responses": [
+        "It seems like you're experiencing muscle weakness. Can you share more details or any other symptoms you may be facing?",
+        "Muscle weakness can have various causes. Have you noticed any specific triggers or patterns associated with this loss of muscle strength?",
+        "I understand you have muscle weakness. Can you provide more information about the areas affected and any associated factors or sensations?"
+      ]
+    },
+    {
+      "tag": "memory problems",
+      "patterns": [
+        "memory problems",
+        "memory issues",
+        "forgetfulness",
+        "memory lapses",
+        "cognitive memory difficulties",
+        "memory challenges",
+        "memory impairment"
+      ],
+      "responses": [
+        "It appears you're dealing with memory problems. Can you share more details or any other cognitive symptoms you may be facing?",
+        "Memory problems can have various causes. Have you noticed any specific triggers or patterns associated with these memory issues?",
+        "I understand that you're experiencing memory problems. Can you provide more information about the specific areas of difficulty or any related concerns?"
+      ]
+    },
+    {
+      "tag": "coordination difficulties",
+      "patterns": [
+        "coordination difficulties",
+        "lack of coordination",
+        "poor coordination",
+        "motor coordination problems",
+        "uncoordinated movements",
+        "movement coordination issues",
+        "clumsiness"
+      ],
+      "responses": [
+        "It seems like you're experiencing coordination difficulties. Can you share more details or any other symptoms you may be facing?",
+        "Coordination difficulties can have various causes. Have you noticed any specific triggers or patterns associated with these motor coordination issues?",
+        "I understand that you're dealing with coordination difficulties. Can you provide more information about the situations or activities where you experience this lack of coordination?"
+      ]
+    },
+    {
+      "tag": "hallucinations",
+      "patterns": [
+        "hallucinations",
+        "visual hallucinations",
+        "auditory hallucinations",
+        "sensory hallucinations",
+        "perceptual distortions",
+        "illusionary experiences",
+        "false perceptions"
+      ],
+      "responses": [
+        "It appears you're experiencing hallucinations. Can you share more details or any other symptoms you may be facing?",
+        "Hallucinations can have various causes. Have you noticed any specific triggers or patterns associated with these perceptual distortions?",
+        "I understand that you're having hallucinations. Can you provide more information about the nature and frequency of these hallucinatory experiences?"
+      ]
+    },
+    {
+      "tag": "paralysis",
+      "patterns": [
+        "paralysis",
+        "loss of movement",
+        "inability to move",
+        "motor paralysis",
+        "complete loss of motion",
+        "muscle paralysis",
+        "motor function loss"
+      ],
+      "responses": [
+        "It seems like you're dealing with paralysis. Can you share more details or any other symptoms you may be facing?",
+        "Paralysis can have various causes. Have you noticed any specific triggers or patterns associated with this loss of movement?"
+      ]
+    },
+
+    {
+      "tag": "irregular menstrual periods",
+      "patterns": [
+        "irregular menstrual periods",
+        "menstrual cycle irregularity",
+        "menstrual irregularities",
+        "irregular periods",
+        "period irregularity",
+        "menstrual cycle variations",
+        "unpredictable menstruation"
+      ],
+      "responses": [
+        "It appears you have irregular menstrual periods. Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with irregular menstrual periods can be concerning. Have you noticed any specific triggers or factors associated with these irregularities?",
+        "I understand that you're experiencing irregular menstrual periods. Can you provide more information about the frequency and any associated symptoms?"
+      ]
+    },
+    {
+      "tag": "menopausal symptoms",
+      "patterns": [
+        "menopausal symptoms",
+        "symptoms of menopause",
+        "menopausal changes",
+        "perimenopausal symptoms",
+        "symptoms during menopause",
+        "menopause-related symptoms",
+        "signs of menopause"
+      ],
+      "responses": [
+        "It seems like you're experiencing menopausal symptoms. Can you share more details or any other symptoms you may be facing?",
+        "Menopausal symptoms can vary. Have you noticed any specific triggers or patterns associated with these changes?",
+        "I understand that you're dealing with menopausal symptoms. Can you provide more information about the nature and intensity of these symptoms?"
+      ]
+    },
+    {
+      "tag": "urinary incontinence",
+      "patterns": [
+        "urinary incontinence",
+        "involuntary urine leakage",
+        "uncontrolled urination",
+        "leaking urine",
+        "loss of bladder control",
+        "urine leakage",
+        "incontinence issues"
+      ],
+      "responses": [
+        "It appears you have urinary incontinence. Can you share more details or any other urinary symptoms you may be experiencing?",
+        "Dealing with urinary incontinence can be challenging. Have you noticed any specific triggers or factors associated with this issue?",
+        "I understand that you're experiencing urinary incontinence. Can you provide more information about the frequency and any associated situations?"
+      ]
+    },
+    {
+      "tag": "irregular heartbeat",
+      "patterns": [
+        "irregular heartbeat",
+        "heart palpitations",
+        "heart rhythm irregularity",
+        "arrhythmia",
+        "palpitations of the heart",
+        "heart rate irregularities",
+        "heartbeat variations"
+      ],
+      "responses": [
+        "It seems like you're experiencing an irregular heartbeat. Can you share more details or any other symptoms you may be facing?",
+        "Irregular heartbeat can have various causes. Have you noticed any specific triggers or patterns associated with these heart palpitations?",
+        "I understand that you're dealing with an irregular heartbeat. Can you provide more information about the frequency and any associated factors?"
+      ]
+    },
+    {
+      "tag": "erectile dysfunction",
+      "patterns": [
+        "erectile dysfunction",
+        "impotence",
+        "sexual dysfunction",
+        "difficulty achieving erection",
+        "problems with erection",
+        "erectile issues",
+        "sexual performance problems"
+      ],
+      "responses": [
+        "It appears you're dealing with erectile dysfunction. Can you share more details or any other symptoms you may be experiencing?",
+        "Erectile dysfunction can have various causes. Have you noticed any specific triggers or patterns associated with this issue?",
+        "I understand that you're experiencing erectile dysfunction. Can you provide more information about the frequency and any associated factors or concerns?"
+      ]
+    },
+    {
+      "tag": "testicular pain",
+      "patterns": [
+        "testicular pain",
+        "pain in the testicles",
+        "testicular discomfort",
+        "aching testicles",
+        "testicle pain sensation",
+        "discomfort in the testes",
+        "pain in the testicular region"
+      ],
+      "responses": [
+        "It seems like you're experiencing testicular pain. Can you share more details or any other symptoms you may be facing?",
+        "Testicular pain can have various causes. Have you noticed any specific triggers or patterns associated with this pain in the testicles?",
+        "I understand you have testicular pain. Can you provide more information about the location, nature, and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "organsomegaly",
+      "patterns": [
+        "organsomegaly",
+        "enlarged organs",
+        "organ enlargement",
+        "enlarged internal organs",
+        "organomegaly",
+        "increase in organ size",
+        "swollen internal organs"
+      ],
+      "responses": [
+        "It appears you have organsomegaly (enlarged organs). Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with organsomegaly can be concerning. Have you noticed any specific triggers or factors associated with this enlargement?",
+        "I understand that you're experiencing organsomegaly. Can you provide more information about the specific organs affected and any associated symptoms?"
+      ]
+    },
+    {
+      "tag": "testicular swelling",
+      "patterns": [
+        "testicular swelling",
+        "swollen testicles",
+        "testicular enlargement",
+        "swelling in the testes",
+        "testicle swelling",
+        "enlarged testicular region",
+        "testicular edema"
+      ],
+      "responses": [
+        "It seems like you're dealing with testicular swelling. Can you share more details or any other symptoms you may be facing?",
+        "Testicular swelling can have various causes. Have you noticed any specific triggers or patterns associated with this enlargement?",
+        "I understand you have testicular swelling. Can you provide more information about the location, nature, and intensity of the swelling?"
+      ]
+    },
+    {
+      "tag": "dysuria",
+      "patterns": [
+        "dysuria",
+        "painful urination",
+        "pain during urination",
+        "burning sensation when urinating",
+        "discomfort during urination",
+        "urinary pain",
+        "painful passing of urine"
+      ],
+      "responses": [
+        "It appears you have dysuria (painful urination). Can you share more details or any other urinary symptoms you may be experiencing?",
+        "Dealing with dysuria can be uncomfortable. Have you noticed any specific triggers or factors associated with this pain during urination?",
+        "I understand that you're experiencing dysuria. Can you provide more information about the frequency and any associated factors or sensations?"
+      ]
+    },
+    {
+      "tag": "pain during intercourse",
+      "patterns": [
+        "pain during intercourse",
+        "painful sex",
+        "discomfort during sex",
+        "intimacy pain",
+        "pain with sexual activity",
+        "painful intercourse",
+        "discomfort during intimacy"
+      ],
+      "responses": [
+        "It seems like you're experiencing pain during intercourse. Can you share more details or any other symptoms you may be facing?",
+        "Pain during intercourse can have various causes. Have you noticed any specific triggers or patterns associated with this discomfort?",
+        "I understand you have pain during intercourse. Can you provide more information about the nature, location, and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "urinary problems",
+      "patterns": [
+        "urinary problems",
+        "problems with urination",
+        "urinary system issues",
+        "urinary tract problems",
+        "urinary difficulties",
+        "urination problems",
+        "issues with urination"
+      ],
+      "responses": [
+        "It appears you're dealing with urinary problems. Can you share more details or any other urinary symptoms you may be facing?",
+        "Urinary problems can have various causes. Have you noticed any specific triggers or patterns associated with these issues?",
+        "I understand that you're experiencing urinary problems. Can you provide more information about the nature and frequency of these problems?"
+      ]
+    },
+    {
+      "tag": "frequent urination",
+      "patterns": [
+        "frequent urination",
+        "urinating often",
+        "excessive urination",
+        "urination frequency",
+        "constant need to urinate",
+        "frequent trips to the bathroom",
+        "urinating more than usual"
+      ],
+      "responses": [
+        "It seems like you're experiencing frequent urination. Can you share more details or any other urinary symptoms you may be facing?",
+        "Frequent urination can have various causes. Have you noticed any specific triggers or patterns associated with this increased urination frequency?",
+        "I understand you have frequent urination. Can you provide more information about the frequency and any associated factors or sensations?"
+      ]
+    },
+    {
+      "tag": "hematuria",
+      "patterns": [
+        "hematuria",
+        "blood in urine",
+        "bloody urine",
+        "urine with blood",
+        "hemorrhagic urine",
+        "blood-stained urine",
+        "hemorrhage in urine"
+      ],
+      "responses": [
+        "It appears you have hematuria (blood in urine). Can you share more details or any other urinary symptoms you may be experiencing?",
+        "Dealing with hematuria can be concerning. Have you noticed any specific triggers or factors associated with this presence of blood in urine?",
+        "I understand that you're experiencing hematuria. Can you provide more information about the frequency and any associated factors or sensations?"
+      ]
+    },
+    {
+      "tag": "foamy urine",
+      "patterns": [
+        "foamy urine",
+        "bubbly urine",
+        "urine with foam",
+        "frothy urine",
+        "foam in urine",
+        "bubbles in urine",
+        "urine frothiness"
+      ],
+      "responses": [
+        "It seems like you're dealing with foamy urine. Can you share more details or any other urinary symptoms you may be facing?",
+        "Foamy urine can have various causes. Have you noticed any specific triggers or patterns associated with this foaming in the urine?",
+        "I understand you have foamy urine. Can you provide more information about the frequency and any associated factors or sensations?"
+      ]
+    },
+    {
+      "tag": "altered urination pattern",
+      "patterns": [
+        "altered urination pattern",
+        "changes in urination",
+        "irregular urination",
+        "abnormal urination",
+        "urinary pattern changes",
+        "variations in urination",
+        "unusual urination pattern"
+      ],
+      "responses": [
+        "It appears your urination pattern is altered. Can you share more details or any other urinary symptoms you may be experiencing?",
+        "Dealing with an altered urination pattern can be concerning. Have you noticed any specific triggers or factors associated with these changes?",
+        "I understand that your urination pattern is altered. Can you provide more information about the nature of the changes and any associated concerns or sensations?"
+      ]
+    },
+
+    {
+      "tag": "hypertension",
+      "patterns": [
+        "hypertension",
+        "high blood pressure",
+        "elevated blood pressure",
+        "BP elevation",
+        "blood pressure issues",
+        "high BP",
+        "increased blood pressure"
+      ],
+      "responses": [
+        "It appears you have hypertension. Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with hypertension can have health implications. Have you noticed any specific triggers or factors associated with your elevated blood pressure?",
+        "I understand that you're dealing with hypertension. Can you provide more information about your blood pressure levels and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "chest pain",
+      "patterns": [
+        "chest pain",
+        "pain in the chest",
+        "chest tightness",
+        "painful chest sensation",
+        "aching chest",
+        "discomfort in the chest"
+      ],
+      "responses": [
+        "It seems like you're experiencing chest pain. Can you share more details or any other symptoms you may be facing?",
+        "Chest pain can have various causes, some of which may be serious. Have you noticed any specific triggers or patterns associated with this pain?",
+        "I understand you have chest pain. Can you provide more information about the location, nature, and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "chest discomfort",
+      "patterns": [
+        "chest discomfort",
+        "uncomfortable chest feeling",
+        "chest uneasiness",
+        "tightness in the chest",
+        "discomfort in the thoracic region",
+        "chest pressure",
+        "unpleasant chest sensation"
+      ],
+      "responses": [
+        "It appears you have chest discomfort. Can you share more details or any other symptoms you may be experiencing?",
+        "Chest discomfort can have various causes. Have you noticed any specific triggers or patterns associated with this uneasy feeling?",
+        "I understand that you're dealing with chest discomfort. Can you provide more information about the location, nature, and intensity of the sensation?"
+      ]
+    },
+    {
+      "tag": "palpitations",
+      "patterns": [
+        "palpitations",
+        "heart palpitations",
+        "fluttering heart",
+        "rapid heartbeat",
+        "pounding heart",
+        "heart racing",
+        "irregular heartbeat"
+      ],
+      "responses": [
+        "It seems like you're experiencing palpitations. Can you share more details or any other symptoms you may be facing?",
+        "Palpitations can have various causes. Have you noticed any specific triggers or patterns associated with these sensations?",
+        "I understand you have palpitations. Can you provide more information about the frequency, duration, and any associated factors or sensations?"
+      ]
+    },
+    {
+      "tag": "cyanosis",
+      "patterns": [
+        "cyanosis",
+        "bluish skin",
+        "blue discoloration",
+        "skin turning blue",
+        "blueness of the skin",
+        "blue tint",
+        "skin cyanosis"
+      ],
+      "responses": [
+        "It appears you have cyanosis. Can you share more details or any other symptoms you may be experiencing?",
+        "Cyanosis can indicate a lack of oxygen in the blood. Have you noticed any specific triggers or patterns associated with this bluish discoloration?",
+        "I understand that you're dealing with cyanosis. Can you provide more information about the areas affected and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "cardiac defects",
+      "patterns": [
+        "cardiac defects",
+        "heart defects",
+        "congenital heart issues",
+        "structural heart abnormalities",
+        "heart malformations",
+        "heart birth defects",
+        "problems with the heart"
+      ],
+      "responses": [
+        "It seems like you're concerned about cardiac defects. Can you share more details or any other symptoms you may be facing?",
+        "Cardiac defects can vary widely. Have you noticed any specific triggers or patterns associated with the concerns you're experiencing?",
+        "I understand that you're dealing with cardiac defects. Can you provide more information about the specific areas of concern or any related symptoms?"
+      ]
+    },
+    {
+      "tag": "high cholesterol levels",
+      "patterns": [
+        "high cholesterol levels",
+        "elevated cholesterol",
+        "hypercholesterolemia",
+        "high lipid levels",
+        "cholesterol imbalance",
+        "increased cholesterol",
+        "cholesterol issues"
+      ],
+      "responses": [
+        "It appears you have high cholesterol levels. Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with high cholesterol levels is important for cardiovascular health. Have you noticed any specific triggers or patterns associated with your elevated cholesterol?",
+        "I understand that you're dealing with high cholesterol levels. Can you provide more information about your cholesterol levels and any associated concerns or symptoms?"
+      ]
+    },
+
+    {
+      "tag": "joint pain",
+      "patterns": [
+        "joint pain",
+        "pain in the joints",
+        "joint discomfort",
+        "aching joints",
+        "joint soreness",
+        "painful joints",
+        "discomfort in the joints"
+      ],
+      "responses": [
+        "It seems like you're experiencing joint pain. Can you share more details or any other symptoms you may be facing?",
+        "Joint pain can have various causes. Have you noticed any specific triggers or patterns associated with this pain in the joints?",
+        "I understand you have joint pain. Can you provide more information about the location, nature, and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "neck pain",
+      "patterns": [
+        "neck pain",
+        "pain in the neck",
+        "neck discomfort",
+        "aching neck",
+        "neck soreness",
+        "painful neck",
+        "discomfort in the neck"
+      ],
+      "responses": [
+        "It appears you have neck pain. Can you share more details or any other symptoms you may be experiencing?",
+        "Neck pain can have various causes. Have you noticed any specific triggers or patterns associated with this pain in the neck?",
+        "I understand you have neck pain. Can you provide more information about the location, nature, and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "joint swelling",
+      "patterns": [
+        "joint swelling",
+        "swollen joints",
+        "swelling in the joints",
+        "joint inflammation",
+        "puffy joints",
+        "enlarged joints",
+        "swollen joint areas"
+      ],
+      "responses": [
+        "It seems like you're dealing with joint swelling. Can you share more details or any other symptoms you may be facing?",
+        "Joint swelling can have various causes. Have you noticed any specific triggers or patterns associated with this swelling in the joints?",
+        "I understand you have joint swelling. Can you provide more information about the location, nature, and intensity of the swelling?"
+      ]
+    },
+    {
+      "tag": "muscle cramps",
+      "patterns": [
+        "muscle cramps",
+        "cramping muscles",
+        "muscle spasms",
+        "painful muscle contractions",
+        "cramps in muscles",
+        "muscle tightening",
+        "painful muscle spasms"
+      ],
+      "responses": [
+        "It appears you're experiencing muscle cramps. Can you share more details or any other symptoms you may be facing?",
+        "Muscle cramps can have various causes. Have you noticed any specific triggers or patterns associated with these cramps?",
+        "I understand you have muscle cramps. Can you provide more information about the location, nature, and intensity of the cramps?"
+      ]
+    },
+    {
+      "tag": "limited range of motion",
+      "patterns": [
+        "limited range of motion",
+        "restricted movement",
+        "range of motion limitation",
+        "limited mobility",
+        "impaired movement",
+        "movement restriction",
+        "reduced range of motion"
+      ],
+      "responses": [
+        "It seems like you're dealing with limited range of motion. Can you share more details or any other symptoms you may be facing?",
+        "Limited range of motion can have various causes. Have you noticed any specific triggers or patterns associated with this restriction?",
+        "I understand that you have limited range of motion. Can you provide more information about the areas affected and any associated factors or sensations?"
+      ]
+    },
+    {
+      "tag": "sprains",
+      "patterns": [
+        "sprains",
+        "sprained joints",
+        "joint sprain",
+        "ligament sprain",
+        "joint ligament injury",
+        "strained joints",
+        "injured joint ligaments"
+      ],
+      "responses": [
+        "It appears you have sprains. Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with sprains can be painful. Have you noticed any specific triggers or patterns associated with these joint injuries?",
+        "I understand that you have sprains. Can you provide more information about the locations, nature, and intensity of the sprains?"
+      ]
+    },
+    {
+      "tag": "fractures",
+      "patterns": [
+        "fractures",
+        "bone fractures",
+        "broken bones",
+        "bone cracks",
+        "fractured bones",
+        "bone breakage",
+        "broken skeletal structures"
+      ],
+      "responses": [
+        "It seems like you have fractures. Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with fractures can be challenging. Have you noticed any specific triggers or patterns associated with these bone injuries?",
+        "I understand that you have fractures. Can you provide more information about the locations, nature, and intensity of the fractures?"
+      ]
+    },
+    {
+      "tag": "foot deformities",
+      "patterns": [
+        "foot deformities",
+        "deformed feet",
+        "foot abnormalities",
+        "foot malformations",
+        "abnormal foot structure",
+        "foot deformations",
+        "deformed foot appearance"
+      ],
+      "responses": [
+        "It appears you have foot deformities. Can you share more details or any other symptoms you may be experiencing?",
+        "Dealing with foot deformities can have various causes. Have you noticed any specific triggers or patterns associated with these abnormalities?",
+        "I understand that you have foot deformities. Can you provide more information about the nature and intensity of the deformities?"
+      ]
+    },
+    {
+      "tag": "tooth discoloration",
+      "patterns": [
+        "tooth discoloration",
+        "discolored teeth",
+        "tooth color changes",
+        "stained teeth",
+        "tooth staining",
+        "teeth discoloring",
+        "abnormal tooth color"
+      ],
+      "responses": [
+        "It seems like you're dealing with tooth discoloration. Can you share more details or any other symptoms you may be facing?",
+        "Tooth discoloration can have various causes. Have you noticed any specific triggers or patterns associated with these changes in tooth color?",
+        "I understand that you have tooth discoloration. Can you provide more information about the nature and extent of the discoloration?"
+      ]
+    },
+    {
+      "tag": "bone pain",
+      "patterns": [
+        "bone pain",
+        "pain in the bones",
+        "bone discomfort",
+        "aching bones",
+        "bone soreness",
+        "painful bones",
+        "discomfort in the bones"
+      ],
+      "responses": [
+        "It appears you're experiencing bone pain. Can you share more details or any other symptoms you may be facing?",
+        "Bone pain can have various causes. Have you noticed any specific triggers or patterns associated with this pain in the bones?",
+        "I understand you have bone pain. Can you provide more information about the location, nature, and intensity of the pain?"
+      ]
+    },
+    {
+      "tag": "skeletal abnormalities",
+      "patterns": [
+        "skeletal abnormalities",
+        "abnormalities in the skeleton",
+        "skeletal malformations",
+        "bone structure abnormalities",
+        "skeletal defects",
+        "bone anomalies",
+        "skeletal irregularities"
+      ],
+      "responses": [
+        "It seems like you're dealing with skeletal abnormalities. Can you share more details or any other symptoms you may be facing?",
+        "Skeletal abnormalities can have various causes. Have you noticed any specific triggers or patterns associated with these irregularities?",
+        "I understand that you have skeletal abnormalities. Can you provide more information about the areas affected and any associated factors or sensations?"
+      ]
+    },
+
+    {
+      "tag": "mood changes",
+      "patterns": [
+        "mood changes",
+        "changes in mood",
+        "mood swings",
+        "fluctuating mood",
+        "mood variations",
+        "shifts in mood",
+        "altered mood"
+      ],
+      "responses": [
+        "It seems like you're experiencing mood changes. Can you share more details or any other symptoms you may be facing?",
+        "Mood changes can have various causes. Have you noticed any specific triggers or patterns associated with these fluctuations?",
+        "I understand you're dealing with mood changes. Can you provide more information about the nature and intensity of these changes?"
+      ]
+    },
+    {
+      "tag": "chronic stress",
+      "patterns": [
+        "chronic stress",
+        "persistent stress",
+        "long-term stress",
+        "ongoing stress",
+        "prolonged stress",
+        "sustained stress",
+        "stress over time"
+      ],
+      "responses": [
+        "It appears you're dealing with chronic stress. Can you share more details or any other symptoms you may be facing?",
+        "Chronic stress can have various impacts on health. Have you noticed any specific triggers or patterns associated with this prolonged stress?",
+        "I understand that you have chronic stress. Can you provide more information about the sources and intensity of this stress?"
+      ]
+    },
+    {
+      "tag": "anxiety",
+      "patterns": [
+        "anxiety",
+        "excessive worry",
+        "nervousness",
+        "feeling anxious",
+        "anxious thoughts",
+        "overwhelming anxiety",
+        "anxiety issues"
+      ],
+      "responses": [
+        "It seems like you're experiencing anxiety. Can you share more details or any other symptoms you may be facing?",
+        "Anxiety can manifest in various ways. Have you noticed any specific triggers or patterns associated with these anxious feelings?",
+        "I understand you're dealing with anxiety. Can you provide more information about the nature and intensity of your anxiety symptoms?"
+      ]
+    },
+    {
+      "tag": "depression",
+      "patterns": [
+        "depression",
+        "feeling depressed",
+        "persistent sadness",
+        "low mood",
+        "depressed thoughts",
+        "downheartedness",
+        "depression symptoms"
+      ],
+      "responses": [
+        "It appears you're dealing with depression. Can you share more details or any other symptoms you may be experiencing?",
+        "Depression can have a significant impact on well-being. Have you noticed any specific triggers or patterns associated with these feelings of sadness?",
+        "I understand that you're experiencing depression. Can you provide more information about the nature and intensity of your depressive symptoms?"
+      ]
+    },
+    {
+      "tag": "suicidal thoughts",
+      "patterns": [
+        "suicidal thoughts",
+        "thoughts of suicide",
+        "suicidal ideation",
+        "thinking about suicide",
+        "considering suicide",
+        "suicidal tendencies",
+        "thoughts of self-harm"
+      ],
+      "responses": [
+        "It seems like you're having suicidal thoughts. Your safety is important. Please consider reaching out to a mental health professional or a trusted person in your life.",
+        "Suicidal thoughts are concerning, and it's crucial to seek help. Consider talking to a mental health professional or someone you trust about what you're going through.",
+        "I'm really sorry to hear that you're feeling this way. It's important to talk to someone who can provide support, such as a mental health professional or a friend or family member."
+      ]
+    },
+    {
+      "tag": "irritability",
+      "patterns": [
+        "irritability",
+        "feeling irritable",
+        "easily irritated",
+        "irritated mood",
+        "irritable behavior",
+        "irritation",
+        "being easily annoyed"
+      ],
+      "responses": [
+        "It appears you're experiencing irritability. Can you share more details or any other symptoms you may be facing?",
+        "Irritability can be a challenging emotion. Have you noticed any specific triggers or patterns associated with this feeling?",
+        "I understand you're dealing with irritability. Can you provide more information about the nature and intensity of your irritability?"
+      ]
+    },
+    {
+      "tag": "changes in appetite",
+      "patterns": [
+        "changes in appetite",
+        "appetite fluctuations",
+        "appetite variations",
+        "appetite changes",
+        "altered appetite",
+        "eating habit changes",
+        "appetite disruptions"
+      ],
+      "responses": [
+        "It seems like you're experiencing changes in appetite. Can you share more details or any other symptoms you may be facing?",
+        "Changes in appetite can be linked to various factors. Have you noticed any specific triggers or patterns associated with these appetite fluctuations?",
+        "I understand you have changes in appetite. Can you provide more information about the nature and intensity of these changes?"
+      ]
+    },
+    {
+      "tag": "nightmares",
+      "patterns": [
+        "nightmares",
+        "disturbing dreams",
+        "nighttime distressing visions",
+        "night terrors",
+        "traumatic dreams",
+        "scary nightmares",
+        "sleep disturbances"
+      ],
+      "responses": [
+        "It appears you're having nightmares. Can you share more details or any other symptoms you may be experiencing?",
+        "Nightmares can be distressing. Have you noticed any specific triggers or patterns associated with these disturbing dreams?",
+        "I understand you're dealing with nightmares. Can you provide more information about the content and frequency of these nightmares?"
+      ]
+    },
+    {
+        "tag": "sleep apnea",
+        "patterns": [
+          "sleep apnea",
+          "breathing pauses during sleep",
+          "obstructive sleep apnea",
+          "OSA",
+          "interrupted breathing at night",
+          "sleep-disordered breathing",
+          "snoring and gasping during sleep"
+        ],
+        "responses": [
+          "It seems like you're concerned about sleep apnea. Can you share more details or any other symptoms you may be facing?",
+          "Sleep apnea can impact sleep quality. Have you noticed any specific triggers or patterns associated with breathing pauses during your sleep?",
+          "I understand that you may be experiencing sleep apnea. Can you provide more information about your sleep patterns and any associated concerns or symptoms?"
+        ]
+      },
+
+    {
+      "tag": "hearing loss",
+      "patterns": [
+        "hearing loss",
+        "loss of hearing",
+        "deafness",
+        "auditory impairment",
+        "reduced hearing",
+        "hearing difficulties",
+        "hearing issues"
+      ],
+      "responses": [
+        "It seems like you're experiencing hearing loss. Can you share more details or any other symptoms you may be facing?",
+        "Hearing loss can have various causes. Have you noticed any specific triggers or patterns associated with this reduction in hearing?",
+        "I understand you have hearing loss. Can you provide more information about the nature and extent of your hearing difficulties?"
+      ]
+    },
+    {
+      "tag": "blurred vision",
+      "patterns": [
+        "blurred vision",
+        "vision blurring",
+        "visual blurriness",
+        "hazy vision",
+        "fuzzy eyesight",
+        "unclear vision",
+        "blurred eyesight"
+      ],
+      "responses": [
+        "It appears you're dealing with blurred vision. Can you share more details or any other symptoms you may be experiencing?",
+        "Blurred vision can have various causes. Have you noticed any specific triggers or patterns associated with this visual blurriness?",
+        "I understand that you have blurred vision. Can you provide more information about the nature and intensity of your visual symptoms?"
+      ]
+    },
+    {
+      "tag": "redness in joints",
+      "patterns": [
+        "redness in joints",
+        "joints turning red",
+        "joint inflammation",
+        "red joints",
+        "inflamed joint areas",
+        "joint redness",
+        "joints becoming red"
+      ],
+      "responses": [
+        "It seems like you're experiencing redness in joints. Can you share more details or any other symptoms you may be facing?",
+        "Redness in joints can have various causes. Have you noticed any specific triggers or patterns associated with this inflammation?",
+        "I understand you have redness in joints. Can you provide more information about the locations, nature, and intensity of the redness?"
+      ]
+    },
+    {
+      "tag": "floaters",
+      "patterns": [
+        "floaters",
+        "eye floaters",
+        "floating spots",
+        "visual floaters",
+        "floaty specks",
+        "drifting particles",
+        "spots in vision"
+      ],
+      "responses": [
+        "It appears you're dealing with floaters. Can you share more details or any other symptoms you may be experiencing?",
+        "Floaters in the vision can have various causes. Have you noticed any specific triggers or patterns associated with these floating spots?",
+        "I understand that you have floaters. Can you provide more information about the nature and frequency of these visual disturbances?"
+      ]
+    },
+    {
+      "tag": "ocular pain",
+      "patterns": [
+        "ocular pain",
+        "eye pain",
+        "pain in the eyes",
+        "eye discomfort",
+        "painful eyes",
+        "eye soreness",
+        "pain in the ocular region"
+      ],
+      "responses": [
+        "It seems like you're experiencing ocular pain. Can you share more details or any other symptoms you may be facing?",
+        "Ocular pain can have various causes. Have you noticed any specific triggers or patterns associated with this pain in the eyes?",
+        "I understand you have ocular pain. Can you provide more information about the location, nature, and intensity of the pain?"
+      ]
+    },
+
+    
+    {
+      "tag": "abnormal test results",
+      "patterns": [
+        "abnormal test results",
+        "irregular test findings",
+        "unexpected test outcomes",
+        "test abnormalities",
+        "unusual test readings",
+        "atypical test results",
+        "abnormal diagnostic results"
+      ],
+      "responses": [
+        "It appears you have abnormal test results. Can you share more details or any other symptoms you may be experiencing?",
+        "Abnormal test results can indicate various health issues. Have you discussed these findings with your healthcare provider?",
+        "I understand that you have abnormal test results. Can you provide more information about the specific tests and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "sports injuries",
+      "patterns": [
+        "sports injuries",
+        "athletic injuries",
+        "exercise-related injuries",
+        "physical activity injuries",
+        "sports-related harm",
+        "injuries from sports",
+        "exercise-induced injuries"
+      ],
+      "responses": [
+        "It seems like you've experienced sports injuries. Can you share more details or any other symptoms you may be facing?",
+        "Sports injuries can vary in severity. Have you taken any steps for recovery or consulted with a healthcare professional?",
+        "I understand that you've had sports injuries. Can you provide more information about the nature and extent of these injuries?"
+      ]
+    },
+    {
+      "tag": "inadequate sleep",
+      "patterns": [
+        "inadequate sleep",
+        "insufficient sleep",
+        "lack of sleep",
+        "poor sleep",
+        "not enough sleep",
+        "sleep deprivation",
+        "sleep insufficiency"
+      ],
+      "responses": [
+        "It appears you're dealing with inadequate sleep. Can you share more details or any other symptoms you may be facing?",
+        "Inadequate sleep can impact overall well-being. Have you identified any factors contributing to your sleep difficulties?",
+        "I understand that you're experiencing inadequate sleep. Can you provide more information about your sleep patterns and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "abnormal prenatal screening results",
+      "patterns": [
+        "abnormal prenatal screening results",
+        "irregular prenatal tests",
+        "unexpected prenatal screening outcomes",
+        "prenatal test abnormalities",
+        "unusual prenatal test readings",
+        "atypical prenatal test results",
+        "abnormal prenatal diagnostics"
+      ],
+      "responses": [
+        "It seems like you have abnormal prenatal screening results. Can you share more details or any other concerns you may be experiencing?",
+        "Abnormal prenatal screening results may require further evaluation. Have you discussed these findings with your healthcare provider?",
+        "I understand that you have abnormal prenatal screening results. Can you provide more information about the specific tests and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "abnormal color vision",
+      "patterns": [
+        "abnormal color vision",
+        "irregular color perception",
+        "unexpected color vision outcomes",
+        "color vision abnormalities",
+        "unusual color vision readings",
+        "atypical color vision results",
+        "abnormal color vision perception"
+      ],
+      "responses": [
+        "It appears you have abnormal color vision. Can you share more details or any other symptoms you may be experiencing?",
+        "Abnormal color vision can be indicative of certain conditions. Have you discussed these findings with an eye care professional?",
+        "I understand that you have abnormal color vision. Can you provide more information about the specific symptoms and any associated concerns?"
+      ]
+    },
+    {
+      "tag": "excessive hunger",
+      "patterns": [
+        "excessive hunger",
+        "uncontrolled appetite",
+        "constant hunger",
+        "unusual hunger",
+        "excessive eating",
+        "abnormal appetite",
+        "uncontrolled food cravings"
+      ],
+      "responses": [
+        "It seems like you're experiencing excessive hunger. Can you share more details or any other symptoms you may be facing?",
+        "Excessive hunger can have various causes. Have you noticed any specific triggers or patterns associated with this increased appetite?",
+        "I understand you have excessive hunger. Can you provide more information about the nature and intensity of your hunger?"
+      ]
+    },
+    {
+      "tag": "cold intolerance",
+      "patterns": [
+        "cold intolerance",
+        "intolerance to cold",
+        "cold sensitivity",
+        "difficulty tolerating cold",
+        "cold discomfort",
+        "cold aversion",
+        "cold temperature intolerance"
+      ],
+      "responses": [
+        "It appears you're dealing with cold intolerance. Can you share more details or any other symptoms you may be facing?",
+        "Cold intolerance can have various causes. Have you noticed any specific triggers or patterns associated with this difficulty tolerating cold?",
+        "I understand that you have cold intolerance. Can you provide more information about the circumstances and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "warmth in joints",
+      "patterns": [
+        "warmth in joints",
+        "joint warmth",
+        "warm joints",
+        "heat in the joints",
+        "joint heat sensation",
+        "warmth in joint areas",
+        "heated joints"
+      ],
+      "responses": [
+        "It seems like you're experiencing warmth in joints. Can you share more details or any other symptoms you may be facing?",
+        "Warmth in joints can have various causes. Have you noticed any specific triggers or patterns associated with this sensation?",
+        "I understand you have warmth in joints. Can you provide more information about the locations, nature, and intensity of the warmth?"
+      ]
+    },
+    {
+      "tag": "photophobia",
+      "patterns": [
+        "photophobia",
+        "light sensitivity",
+        "sensitivity to light",
+        "discomfort in bright light",
+        "light aversion",
+        "light intolerance",
+        "visual discomfort in light"
+      ],
+      "responses": [
+        "It appears you're dealing with photophobia. Can you share more details or any other symptoms you may be facing?",
+        "Photophobia can have various causes. Have you noticed any specific triggers or patterns associated with this sensitivity to light?",
+        "I understand that you have photophobia. Can you provide more information about the circumstances and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "easy bruising",
+      "patterns": [
+        "easy bruising",
+        "bruising easily",
+        "quick bruise formation",
+        "unexplained bruises",
+        "bruises with minimal injury",
+        "frequent bruising",
+        "rapid bruise development"
+      ],
+      "responses": [
+        "It seems like you're experiencing easy bruising. Can you share more details or any other symptoms you may be facing?",
+        "Easy bruising can have various causes. Have you noticed any specific triggers or patterns associated with this quick bruise formation?",
+        "I understand you have easy bruising. Can you provide more information about the locations, nature, and frequency of the bruising?"
+      ]
+    },
+    {
+      "tag": "pallor",
+      "patterns": [
+        "pallor",
+        "pale skin",
+        "pale complexion",
+        "skin paleness",
+        "white skin",
+        "lack of skin color",
+        "colorless skin"
+      ],
+      "responses": [
+        "It appears you're experiencing pallor. Can you share more details or any other symptoms you may be facing?",
+        "Pallor can have various causes. Have you noticed any specific triggers or patterns associated with this pale skin?",
+        "I understand that you have pallor. Can you provide more information about the areas affected and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "recurrent respiratory infections",
+      "patterns": [
+        "recurrent respiratory infections",
+        "frequent respiratory infections",
+        "repeated respiratory illnesses",
+        "recurrent respiratory issues",
+        "chronic respiratory infections",
+        "respiratory infections recurrence",
+        "frequent respiratory illnesses"
+      ],
+      "responses": [
+        "It seems like you're dealing with recurrent respiratory infections. Can you share more details or any other symptoms you may be facing?",
+        "Recurrence of respiratory infections may require attention. Have you explored potential causes or consulted with a healthcare professional?",
+        "I understand that you have recurrent respiratory infections. Can you provide more information about the frequency and severity of these infections?"
+      ]
+    },
+    {
+      "tag": "exercise intolerance",
+      "patterns": [
+        "exercise intolerance",
+        "intolerance to physical activity",
+        "inability to tolerate exercise",
+        "exercise discomfort",
+        "limited exercise capacity",
+        "difficulty with exercise",
+        "poor tolerance for physical activity"
+      ],
+      "responses": [
+        "It appears you're experiencing exercise intolerance. Can you share more details or any other symptoms you may be facing?",
+        "Exercise intolerance can have various causes. Have you noticed any specific triggers or patterns associated with this difficulty in tolerating exercise?",
+        "I understand you have exercise intolerance. Can you provide more information about the nature and intensity of your exercise-related symptoms?"
+      ]
+    },
+    {
+      "tag": "weight changes",
+      "patterns": [
+        "weight changes",
+        "changes in weight",
+        "fluctuations in weight",
+        "weight variations",
+        "altered weight",
+        "weight shifts",
+        "body weight changes"
+      ],
+      "responses": [
+        "It seems like you're experiencing weight changes. Can you share more details or any other symptoms you may be facing?",
+        "Changes in weight can have various causes. Have you noticed any specific triggers or patterns associated with these fluctuations?",
+        "I understand you have weight changes. Can you provide more information about the nature and extent of your weight-related concerns?"
+      ]
+    },
+    {
+      "tag": "unexplained weight loss",
+      "patterns": [
+        "unexplained weight loss",
+        "unexpected weight reduction",
+        "sudden weight loss",
+        "unintended weight loss",
+        "unexplained decrease in weight",
+        "mysterious weight loss",
+        "unexplained loss of body weight"
+      ],
+      "responses": [
+        "It appears you have unexplained weight loss. Can you share more details or any other symptoms you may be experiencing?",
+        "Unexplained weight loss can be concerning. Have you discussed this with a healthcare professional to explore potential causes?",
+        "I understand that you have unexplained weight loss. Can you provide more information about the timeframe and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "recurrent infections",
+      "patterns": [
+        "recurrent infections",
+        "frequent infections",
+        "repeated infections",
+        "recurrent bouts of illness",
+        "chronic infections",
+        "infections recurrence",
+        "frequent bouts of sickness"
+      ],
+      "responses": [
+        "It seems like you're dealing with recurrent infections. Can you share more details or any other symptoms you may be facing?",
+        "Recurrence of infections may indicate an underlying issue. Have you consulted with a healthcare professional to investigate the cause?",
+        "I understand that you have recurrent infections. Can you provide more information about the frequency and types of infections you're experiencing?"
+      ]
+    },
+    {
+      "tag": "excessive thirst",
+      "patterns": [
+        "excessive thirst",
+        "unquenchable thirst",
+        "constant thirst",
+        "unusual thirst",
+        "excessive desire for fluids",
+        "abnormal thirst",
+        "uncontrolled thirst"
+      ],
+      "responses": [
+        "It seems like you're experiencing excessive thirst. Can you share more details or any other symptoms you may be facing?",
+        "Excessive thirst can have various causes. Have you noticed any specific triggers or patterns associated with this increased desire for fluids?",
+        "I understand you have excessive thirst. Can you provide more information about the nature and intensity of your thirst?"
+      ]
+    },
+
+    {
+      "tag": "changes in appetite",
+      "patterns": [
+        "changes in appetite",
+        "appetite changes",
+        "appetite variations",
+        "appetite fluctuations",
+        "altered appetite",
+        "eating habit changes",
+        "appetite disruptions"
+      ],
+      "responses": [
+        "It seems like you're experiencing changes in appetite. Can you share more details or any other symptoms you may be facing?",
+        "Changes in appetite can be linked to various factors. Have you noticed any specific triggers or patterns associated with these fluctuations?",
+        "I understand you have changes in appetite. Can you provide more information about the nature and intensity of these changes?"
+      ]
+    },
+    {
+      "tag": "poor diet",
+      "patterns": [
+        "poor diet",
+        "unhealthy eating",
+        "dietary issues",
+        "inadequate nutrition",
+        "suboptimal diet",
+        "unbalanced diet",
+        "nutritional deficiencies"
+      ],
+      "responses": [
+        "It appears you have concerns about your diet. Can you share more details or any other symptoms you may be experiencing?",
+        "Maintaining a healthy diet is crucial for well-being. Have you considered consulting with a nutritionist or healthcare professional to address your dietary concerns?",
+        "I understand that you're dealing with a poor diet. Can you provide more information about your dietary habits and any associated health issues?"
+      ]
+    },
+    {
+      "tag": "hyperhidrosis",
+      "patterns": [
+        "hyperhidrosis",
+        "excessive sweating",
+        "uncontrolled sweating",
+        "abnormal sweating",
+        "sweating excessively",
+        "sweat overproduction",
+        "profuse sweating"
+      ],
+      "responses": [
+        "It seems like you're dealing with hyperhidrosis. Can you share more details or any other symptoms you may be facing?",
+        "Hyperhidrosis can have various causes. Have you noticed any specific triggers or patterns associated with this excessive sweating?",
+        "I understand that you have hyperhidrosis. Can you provide more information about the areas affected and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "bruising",
+      "patterns": [
+        "bruising",
+        "skin bruising",
+        "bruised skin",
+        "ecchymosis",
+        "purple spots",
+        "skin discoloration",
+        "bruise marks"
+      ],
+      "responses": [
+        "It seems like you're experiencing bruising. Can you share more details or any other symptoms you may be facing?",
+        "Bruising can have various causes. Have you noticed any specific triggers or patterns associated with this quick bruise formation?",
+        "I understand you have bruising. Can you provide more information about the locations, nature, and frequency of the bruising?"
+      ]
+    },
+    {
+      "tag": "growths",
+      "patterns": [
+        "growths",
+        "abnormal growths",
+        "unusual lumps",
+        "unexpected masses",
+        "abnormal tissue growth",
+        "atypical growths",
+        "unexplained lumps"
+      ],
+      "responses": [
+        "It appears you have concerns about growths. Can you share more details or any other symptoms you may be experiencing?",
+        "The presence of growths may require further evaluation. Have you consulted with a healthcare professional to investigate these concerns?",
+        "I understand that you're dealing with growths. Can you provide more information about the locations, sizes, and any associated concerns or symptoms?"
+      ]
+    },
+    
+    {
+      "tag": "redness",
+      "patterns": [
+        "redness",
+        "skin redness",
+        "red complexion",
+        "reddening of the skin",
+        "flushed appearance",
+        "skin turning red",
+        "red skin tone"
+      ],
+      "responses": [
+        "It appears you're experiencing redness. Can you share more details or any other symptoms you may be facing?",
+        "Redness can be indicative of various conditions. Have you noticed any specific triggers or patterns associated with this skin redness?",
+        "I understand you have redness. Can you provide more information about the areas affected and any associated concerns or symptoms?"
+      ]
+    },
+    {
+      "tag": "swelling of lips or face",
+      "patterns": [
+        "swelling of lips or face",
+        "lip and face swelling",
+        "swollen lips and face",
+        "facial swelling",
+        "lip swelling",
+        "swelling around the mouth",
+        "puffy lips and face"
+      ],
+      "responses": [
+        "It seems like you're dealing with swelling of lips or face. Can you share more details or any other symptoms you may be facing?",
+        "Swelling of lips or face can have various causes. Have you noticed any specific triggers or patterns associated with this swelling?",
+        "I understand that you have swelling of lips or face. Can you provide more information about the locations, nature, and intensity of the swelling?"
+      ]
+    },
+    {
+      "tag": "swelling in the feet",
+      "patterns": [
+        "swelling in the feet",
+        "foot swelling",
+        "swollen feet",
+        "feet puffiness",
+        "feet edema",
+        "swelling around the ankles",
+        "puffy feet"
+      ],
+      "responses": [
+        "It appears you're experiencing swelling in the feet. Can you share more details or any other symptoms you may be facing?",
+        "Swelling in the feet can have various causes. Have you noticed any specific triggers or patterns associated with this edema?",
+        "I understand you have swelling in the feet. Can you provide more information about the nature and intensity of the swelling?"
+      ]
+    },
+    {
+      "tag": "swelling in the face or jaw",
+      "patterns": [
+        "swelling in the face or jaw",
+        "facial and jaw swelling",
+        "swollen face and jaw",
+        "face and jaw edema",
+        "facial puffiness",
+        "jaw swelling",
+        "swelling around the jawline"
+      ],
+      "responses": [
+        "It seems like you're dealing with swelling in the face or jaw. Can you share more details or any other symptoms you may be facing?",
+        "Swelling in the face or jaw can have various causes. Have you noticed any specific triggers or patterns associated with this edema?",
+        "I understand that you have swelling in the face or jaw. Can you provide more information about the locations, nature, and intensity of the swelling?"
+      ]
+    },
+    {
+      "tag": "peripheral edema",
+      "patterns": [
+        "peripheral edema",
+        "edema in extremities",
+        "swelling in limbs",
+        "peripheral swelling",
+        "limb edema",
+        "swollen extremities",
+        "edematous limbs"
+      ],
+      "responses": [
+        "It appears you're dealing with peripheral edema. Can you share more details or any other symptoms you may be facing?",
+        "Peripheral edema can have various causes. Have you noticed any specific triggers or patterns associated with this swelling in the limbs?",
+        "I understand that you have peripheral edema. Can you provide more information about the locations, nature, and intensity of the swelling?"
+      ]
+    },
+    {
+        "tag": "fever",
+        "patterns": [
+          "fever",
+          "high body temperature",
+          "elevated temperature",
+          "temperature rise",
+          "febrile condition",
+          "body fever",
+          "temperature spike"
+        ],
+        "responses": [
+          "It seems like you're experiencing a fever. Can you share more details or any other symptoms you may be facing?",
+          "Fever can be indicative of various health conditions. Have you noticed any specific triggers or patterns associated with this elevated temperature?",
+          "I understand that you have a fever. Can you provide more information about the duration, intensity, and any associated symptoms?"
+        ]
+      }
+  ]
+}
